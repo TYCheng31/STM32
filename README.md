@@ -3,7 +3,9 @@
 
 
 *demo影片  
+
 https://github.com/user-attachments/assets/2bbbddea-fb3e-45ff-85c8-cc81d8f0fa25  
+
 * 讀出MPU6050機身編號 (ID)
 * 讀出三軸及時狀態
 * 三軸及時加速度值
