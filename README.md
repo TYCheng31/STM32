@@ -12,15 +12,17 @@ https://github.com/user-attachments/assets/2bbbddea-fb3e-45ff-85c8-cc81d8f0fa25
 
 MPU6050、OLED都是用I2C傳輸
 
-TODO:
-## 超低功耗
+
+## TODO:
+
+### 超低功耗
 * 一鍵喚醒
 * 外接電池
 
-## 簡易介面
+### 簡易介面
 * 可清除歷史紀錄
 
-## 無線功能
+### 無線功能
 * BLE
 * WIFI
 
